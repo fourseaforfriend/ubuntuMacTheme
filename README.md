@@ -10,6 +10,7 @@ Step2:
 
 Step3:
    Search docky tools in ubuntu's search and run it.
+   Just suggest(仅建议): set 'start cartoon(启动动画)' as 'no cartoon(无动画)'
 
 Step4:
    The last step, you use it!!!!
