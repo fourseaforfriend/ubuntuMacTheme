@@ -3,7 +3,7 @@ The script of installing macTheme on ubuntu system
 
 Step1: 
    Run the install_mac_theme.sh bash file like that:
-      bash install_mac_theme.sh
+      -->bash install_mac_theme.sh
             
 Step2:
    Set something like this link https://www.jianshu.com/p/246d629f1ee5.
